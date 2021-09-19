@@ -14,9 +14,6 @@
     white-space: normal;
     font-size: 0.9em;
 
-    &:first-child {
-      display: none;
-    }
     &:hover {
       color: $c-link;
     }

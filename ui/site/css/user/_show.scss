@@ -28,6 +28,10 @@
 
     .number-menu {
       margin: 0 0 0.2em 1em;
+
+      .nm-item:first-child {
+        display: none;
+      }
     }
 
     .user-actions {
